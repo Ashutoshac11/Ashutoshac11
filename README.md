@@ -5,7 +5,7 @@
 ---
 
 ## About Me
-I am a passionate backend developer with over 1 year of experience in developing robust and scalable web applications. My expertise lies in Python, Django, REST APIs, and PostgreSQL, with significant experience in Docker and Git for version control and containerization. I thrive in environments where I can contribute to both the development and optimization of backend systems.
+I am a passionate backend developer with over 1+ year of experience developing robust and scalable web applications. My expertise lies in Python, Django, REST APIs, and PostgreSQL, with significant experience in Docker and Git for version control and containerization. I thrive in environments where I can contribute to developing and optimizing backend systems.
 
 ---
 
