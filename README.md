@@ -17,7 +17,7 @@ I am a passionate backend developer with over 1 year of experience in developing
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi,postgresql,docker,linux,git,html,css,js)](https://skillicons.dev)
 
-- **language:** Python
+- **Language:** Python
 - **Frameworks:** Django, Django-Rest-Framework, Flask, FastAPI
 - **Databases:** PostgreSQL
 - **Tools:** GIT, Docker, Linux
@@ -27,7 +27,7 @@ I am a passionate backend developer with over 1 year of experience in developing
 
 ## Experience
 
-- **Future & Al, Founder** (Dates)
+- **Future & Al, Founder**
   - Leading the development of India's largest & fastest-growing AI platform.
   - Built and maintained REST APIs using Django and Flask.
   - Managed deployment using Docker and AWS.
@@ -37,5 +37,3 @@ I am a passionate backend developer with over 1 year of experience in developing
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashutoshac11&show_icons=true&theme=radical)
-
-
