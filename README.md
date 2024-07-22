@@ -9,6 +9,11 @@ I am a passionate backend developer with over 1+ year of experience developing r
 
 ---
 
+## Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### Connect with me
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ashutosh-chouhan-ac/)
 
